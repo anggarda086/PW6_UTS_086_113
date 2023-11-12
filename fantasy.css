@@ -1,0 +1,32 @@
+body{
+    width: 100%;
+    height: 100%;
+    background-image: url("https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-M_PIJmGPvWJno0YkpXi1smOu9cUEzrvX1T9kteCkfXBrhsD28hvJRXn94o4fXh4SP_9f8MM1f0S01ZYBoIbVCFogVvcq41yaP8TdM3C_QOLtTt-OnnYof8dcDXnsK0e7j41wfdz1_Gcex2F-QIeXSGvdlAQKvzCLjLa-q9Wi5BIOIgpkiYFNIPE2Mw/s5120/FANTASY%20WALLPAPER%20562023.jpg");
+}
+.card img{
+    height: 60%;
+}
+.card{
+    color:black;
+    background-color:antiquewhite;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.text h2{
+    font-size: 4rem;
+    font-weight: 700;
+    text-align: center;
+    color: rgb(23, 22, 22);
+    font-family:Bebas Neue ;
+}
+.text p{
+    font-size: 2rem;
+    text-align: center;
+    color: rgb(29, 27, 27);
+    font-family: Dancing Script;
+}
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
